@@ -1,7 +1,6 @@
-<head>
-  <title>Intro to JavaScript</title>
-  <script> alert("Hello World"); </script>
-  </head>
-   <body>
-   </body>
 </html>
+<head>
+<title> Intro to javaScript </title>
+<script> alert ("hello world"); </script>
+</head>
+<body></body>
